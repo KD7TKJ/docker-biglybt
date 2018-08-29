@@ -1,6 +1,6 @@
 # docker-biglybt
 
-docker-vuze
+docker-biglybt
 All the prereqs to run BiglyBT in a container accessed via a VNC client. 
 
 The container creates a user called plex as UID 972; This allows the application to work alongside the plex plugins on FreeNAS.
